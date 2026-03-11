@@ -1,5 +1,8 @@
 # School-Work-Links
 
+Used Blender to create a lootbox with an animation. It was then imported into unity where I had to also make a main menu and an animated healthbar.
+https://youtu.be/LjJo4Kp4Ve0
+
 Recreated the first level of Peggle Deluxe on a web browser.
 https://github.com/birdsky24/COMP1004-CW
 
